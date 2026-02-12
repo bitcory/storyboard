@@ -63,7 +63,7 @@ export default function StoryboardGrid({ sequenceId, sceneId }: StoryboardGridPr
       >
         <div className="bg-gray-700 flex items-center justify-center py-2.5 text-white col-span-2">컷</div>
         <div className="bg-gray-500" />
-        <div className="bg-gray-700 flex items-center justify-center py-2.5 text-white">그림</div>
+        <div className="bg-gray-700 flex items-center justify-center py-2.5 text-white">이미지</div>
         <div className="bg-gray-500" />
         <div className="bg-gray-700 flex items-center justify-center py-2.5 text-white">시간</div>
         <div className="bg-gray-500" />
